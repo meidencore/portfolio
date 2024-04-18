@@ -6,7 +6,7 @@
     "email": "danieleverdale@gmail.com",
     "phone": "+53 59103583",
     "url": "https://meidencore.github.io",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "Ing. Eléctrico de formación y actualmente me desempeño como desarrollador web. Me encanta integrarme en equipos de trabajo en los cuales pueda utilizar mis conocimientos y habilidades como programador. Me gusta el trabajo en equipo y los ambientes de colaboracion. Me mantengo en constante aprendizaje y siempre dispuesto a aprender nuevas tecnologias",
     "location": {
       "address": "",
       "postalCode": "10400",
@@ -26,30 +26,30 @@
     {
       "name": "Banco Central de Cuba",
       "position": "Desarrollador Web",
-      "startDate": "2024-01-01",
+      "startDate": "11-01-2024",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Desarrollador del Sistema de informatización Bancaria. Desarrollo de APIs Restful para aplicaciones internas de Banco Central. Monitoreo de datos de consumo de las APIs con Grafana. Desarrollo de interfaces de usuario para las aplicaciones webs internas del Banco.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
+      "name": "Habana COM-PAQ S.R.L.",
+      "position": "Desarrollador y Supervisor de Procesos",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "startDate": "01-11-2022",
+      "endDate": "01-11-2023",
+      "summary": "Desarrollo de entorno de trabajo basado en Excel para la gestion de pedidos, procesos de contabilidad y gestión de inventarios. Manejo de herramientas de Google para integración con tiendas virtuales.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "EMSI-FARMA S.R.L.",
+      "position": "Lider del Equipo de Automatización",
+      "startDate": "10-12-2019",
+      "endDate": "10-05-2022",
+      "summary": "Vinculación a la programación orientada a PLC. Desarrollo de proyectos de gran envergadura en el campo de la automatización de procesos farmacéuticos.",
       "highlights": [
         "Started the company"
       ]
@@ -67,17 +67,30 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "institution": "Universidad Tecnológica de la Habana.(CUJAE)",
+    "area": "Ingeniero Eléctrico",
+    "studyType": "Ingeriero",
+    "startDate": "2013-01-11",
+    "endDate": "2018-01-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
     ]
-  }],
+  },
+  {
+    "institution": "Zero To Mastery Academy",
+    "area": "Desarrollo Web",
+    "studyType": "Course",
+    "startDate": "2023-09-01",
+    "endDate": "2023-09-01",
+    "score": "4.0",
+    "courses": [
+      "React.JS",
+      "Node.Js",
+      "Express.JS"
+    ]
+  }
+  ],
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -86,9 +99,9 @@
   }],
   "certificates": [{
     "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+    "date": "2023-09-15",
+    "issuer": "Udemy",
+    "url": "https://ude.my/UC-5306618f-d29b-48e4-a560-ca211472cc70/"
   }],
   "publications": [{
     "name": "Publication",
@@ -134,6 +147,20 @@
       ]
     },
     {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend"
+      ]
+    },
+    {
       "name": "Node",
       "level": "Avanzado",
       "keywords": [
@@ -141,10 +168,17 @@
       ]
     },
     {
-      "name": "MySQL",
+      "name": "PostgreSQL",
       "level": "Avanzado",
       "keywords": [
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "NOSQL", "Almacenamiento de Datos", "Backend"
       ]
     },
     {
@@ -159,20 +193,6 @@
       "level": "Avanzado",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
     }
   ],
@@ -199,66 +219,74 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Face Recognition Brain",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Aplicación Web integrada a la API de Clarifai.com para el identificacion de rostros en fotos",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Integración con IA",
+        "React.js",
+        "Express.js",
+        "PostgreSQL"
       ],
-      "url": "https://mars.codes"
+      "url": "https://meidencore.github.io/facerecognitionbrain/",
+      "github": "https://github.com/meidencore/facerecognitionbrain"
     },
     {
-      "name": "AdventJS",
+      "name": "Code Verifier",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Aplicación para resolver \"Katas\" de código para el aprendizaje",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "En desarrollo",
+        "Retos para cualquier lenguaje",
+        "React.js",
+        "Express.js",
+        "MongoDB"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://github.com/meidencore/code-verifier-frontend",
+      "github": "https://github.com/meidencore/code-verifier-backend"
     },
     {
-      "name": "Codember",
+      "name": "FiRe Chat",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "A chat application made with React.Js and Firebase",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "En desarrollo",
+        "ChatApp",
+        "Serverless"
       ],
-      "url": "https://codember.dev"
+      "url": "https://fire-chat-lyrh.onrender.com/",
+      "github": "https://github.com/meidencore/FiRe-Chat"
     },
     {
-      "name": "codi.link",
+      "name": "Yari Rassi Portfolio",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Página web para artista visual independiente",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Portfolio"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "https://yarirassi.com/"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "QRmaker",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "description": "Bot de Telegram para generar codigos QR",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "Telegram-Bot",
+        "Python - Telegram-API"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "url": "https://t.me/qrmker_bot",
+      "github": "https://github.com/meidencore/qr_maker_telegram_bot"
     },
     {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "name": "Quote Generator",
+      "isActive": true,
+      "description": "Generador de frases con integración directa a X",
       "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
+        "Vanilla.js",
+        "Twitter-API"
       ],
-      "url": "https://miduconf.com"
+      "url": "https://meidencore.github.io/quote-generator/",
+      "github": ["https://github.com/meidencore/quote-generator"]
     }
   ]
 }
