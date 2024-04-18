@@ -286,7 +286,7 @@
         "Twitter-API"
       ],
       "url": "https://meidencore.github.io/quote-generator/",
-      "github": ["https://github.com/meidencore/quote-generator"]
+      "github": "https://github.com/meidencore/quote-generator"
     }
   ]
 }
